@@ -17,8 +17,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# Results
-Results/
+
 
 # Large generated files (optional)
 *.h5
